@@ -4,7 +4,7 @@ This project is a Java 17 Library Management System built to demonstrate OOP con
 
 ## Features
 
-- Book management: add, update, remove, and search books by title, author, or ISBN.
+- The Book management: add, update, remove, and search books by title, author, or ISBN.
 - Patron management: register patrons, update details, and view borrowing history.
 - Lending process: checkout and return books with loan tracking.
 - Inventory management: track available, borrowed, reserved, and in-transfer books.
