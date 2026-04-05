@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Apr 05 17:01:19 IST 2026
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1775388679487
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-dependency-plugin\:pom\:3.7.0 from/to central (https\://repo.maven.apache.org/maven2)\: F\:\\airtribe\\Backend engineering\\LibraryManagementSystem\\.m2\\org\\apache\\maven\\plugins\\maven-dependency-plugin\\3.7.0\\maven-dependency-plugin-3.7.0.pom.3560456204659645209.tmp.11120503019270244195.tmp
